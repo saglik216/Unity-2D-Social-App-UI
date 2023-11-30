@@ -3,7 +3,7 @@
 
 # ScreenShots and Previews 
  <img src="profile2.gif" alt="Preview1" />
- <img src="profile.png" alt="ScreenShot1" />
+ <img src="profile2.png" alt="ScreenShot1" />
 
 #Used Plugins 
  Made with Native Gallery -  [Native Gallery](https://github.com/yasirkula/UnityNativeGallery)
