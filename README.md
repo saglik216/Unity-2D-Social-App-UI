@@ -5,5 +5,6 @@
  <img src="profile2.gif" alt="Preview1" />
  <img src="profile2.png" alt="ScreenShot1" />
 
-#Used Plugins 
+# Used Plugins 
  Made with Native Gallery -  [Native Gallery](https://github.com/yasirkula/UnityNativeGallery)
+ so thanks [yasirkula](https://github.com/yasirkula/)
